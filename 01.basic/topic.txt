@@ -1,0 +1,14 @@
+## Basic Topics
+1. range vs xrange
+2. list comprehension
+3. Dictionaries (Merge two dict with update(), sorting by key & value, Key collision)
+4. Method Overloading & Overriding
+5. self - keywords 
+6. super method
+7. zip function
+8. Difference Module, Package and Script
+9. Serialization and Deserialization
+10. Map, Reduce and Filter function
+11. Diff between args & kwargs
+12. String Slicing
+13. Unit Test 

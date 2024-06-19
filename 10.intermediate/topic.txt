@@ -1,0 +1,26 @@
+## Intermediate Topics
+1. Generators
+2. Decorators
+3. Defaultdict & Orderdict (Collections)
+4. Dunder Methods (\__new__(), \__init__(), \__repr__(), \__str__())
+5. Copy (Shallow & Deep)
+6. Context Manager & Custom Context Manager
+7. Monkey Patching
+8. Basic DS (Queue, Stack, LinkedList)
+9. Packing & Unpacking
+10. Profilers
+11. SOLID Principles (Restrict Object Creation of a class once first object is created)
+12. Iterators
+13. Generators (Generators vs List Comprehension)
+14. Enumerators
+15. Access Modifiers and their Calls
+16. \__name__ == \__main__ works 
+17. Lazy Function (How to use Lazy function to read excessive big files)
+18. OOPS Concept (MRO, Operator overloading, Call by Ref, static, instance and class methods, ABC, restrict class variable creation in class)
+19. .pyc files
+20. List.sort() and sorted(list)
+21. Data Classes
+22. "is" vs "=="
+23. Memory Management
+24. Scope in Python(Global vs NonLocal)
+25. Enum

@@ -1,0 +1,29 @@
+## Advance Topics
+1. Metaclass
+2. Static Typing
+3. Warlus Operator
+4. Else Clause (In try/except & for loop)
+5. Descriptors
+6. Design Pattern (Factory, Adapter, Singleton)
+7. Garbage Collection, Reference Counting, Cyclic Reference
+8. Destructor (\__del__()), Del Keyword
+9. Compilation & Linking
+10. Wheels and Eggs
+11. Acces Module from C (& vice versa)
+12. fstrings
+13. Hashable Objects
+14. GIL
+15. Thread vs Process
+16. Multithreading, Multiprocessing & Asyncio
+17. Thread safety
+18. \__slot__
+19. \__call__
+20. Python Arrays
+21. Type Hints (Any, Union, Optional, Iterable)
+22. Parameterized Decorators
+23. Mixin Classes
+24. Functional Programming
+25. Closure
+26. Metaprogramming
+27. Composition
+28. Prpoerty (getter & setter)
