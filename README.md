@@ -77,7 +77,7 @@
 # Managerial Question
 
 ## AGILE
-1. Kanban - https://kanbanzone.com/resources/kanban/wip-limits/
+1. [Kanban](https://kanbanzone.com/resources/kanban/wip-limits/)
 2. Agile 
 3. Agile - ceremonies
 
