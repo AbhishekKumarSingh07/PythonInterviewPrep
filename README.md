@@ -72,3 +72,19 @@
 26. Metaprogramming
 27. Composition
 28. Prpoerty (getter & setter)
+
+
+# Managerial Question
+
+## AGILE
+1. Kanban - https://kanbanzone.com/resources/kanban/wip-limits/
+2. Agile 
+3. Agile - ceremonies
+
+## Database
+1. Clusterring
+2. Indexing
+3. NoSQL
+4. Sharding
+5. Partitioning
+6. Database Transaction
